@@ -1,0 +1,8 @@
+def hello() -> str:
+    return "Hello from studious-journey!"
+
+
+def foobar(x):
+    print(
+        "FOOBARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+    )
